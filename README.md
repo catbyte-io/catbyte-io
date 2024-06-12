@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Current Work
-I am currently working on the Catbyte.dev website which will contain coding tutorials
+The Catbyte.dev website for coding tutorials.
+A data analysis web-based program for transit metrics.
+Rewriting CS50 programs in Rust
 
 # Current Learning
 Currently in school.
