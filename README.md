@@ -19,7 +19,8 @@ A data analysis web-based program for transit metrics.
 Rewriting CS50 programs in Rust
 
 # Current Learning
-Currently in school.
+Reading the SEBOK.
+Currently learning Express and Vite while building an application.
 I am currently learning about software security and software architecture.
 I am also learning the Rust programming language and wish to learn Kotlin.
 
