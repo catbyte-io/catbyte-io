@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Current Work
-The Catbyte.dev website for coding tutorials.
+The Catbyte.dev website for coding tutorials and security blog posts.
 A data analysis web-based program for transit metrics.
 Rewriting CS50 programs in Rust
 
